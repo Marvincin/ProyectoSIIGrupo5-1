@@ -6,15 +6,17 @@ int potencia(int a, int b);
 int main(){
 
 	int a=0,b=0;
-
+	
 	printf("Hello World");
-
+	
+	printf("Suma de 2 numeros");
+	
 	printf("Ingrese 2 numeros\n");
 
-	printf("Ingrese el primer número\n");
+	printf("Ingrese el primer nÃºmero\n");
 
 	scanf("%d",&a);
-	printf("Ingrese el primer número\n");
+	printf("Ingrese el primer nÃºmero\n");
 
 	scanf("%d",&b);
 	printf("La suma de los numeros es %d",a+b);
@@ -49,7 +51,7 @@ int main(){
 
 	printf("\n La multiplicacion de los numeros es: %d",a*b);
 
-	printf("\nIngrese el primer número para la potencia\n");
+	printf("\nIngrese el primer nÃºmero para la potencia\n");
 
 	scanf("%d",&a);
 	printf("Ingrese la potencia\n");
